@@ -141,10 +141,13 @@ body {
 }
 
 /* Responsive */
+/* Sur mobile: prendre plus de largeur */
 @media (max-width: 768px) {
-  .films-grid {
-    grid-template-columns: 1fr;
+  .films-list {
+    max-width: 90%; /* 90% de la largeur disponible */
+    padding: 0 20px; /* Ajouter un peu de marge */
   }
+}
 
   .film-poster {
     height: 250px;
