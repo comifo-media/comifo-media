@@ -145,7 +145,7 @@ body {
 @media (max-width: 768px) {
   .films-list {
     max-width: 95%; /* 90% de la largeur disponible */
-    padding: 0 20px; /* Ajouter un peu de marge */
+    padding: 0 10px; /* Ajouter un peu de marge */
   }
 }
 
