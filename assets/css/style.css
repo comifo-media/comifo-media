@@ -330,12 +330,6 @@ body {
   display: block;
 }
 
-/* Année du film */
-.film-year {
-  color: #C27AFF;
-  font-size: 1rem;
-}
-
 /* Effet au survol */
 .film-item:hover {
   background-color: rgba(205, 219, 234, 0.6);
@@ -345,9 +339,38 @@ body {
   color: white;
 }
 
-/* Lien pour chaque film */
-.film-link {
+/* Lien du film - Desktop */
+@media (min-width: 769px) {
+  .film-link {
+    color: #CDDBEA;
+    text-decoration: none;
+    font-size: 1.1rem;
+    display: block;
+  }
+}
 
+/* Lien du film - Mobile */
+@media (max-width: 768px) {
+  .film-link {
+    color: #CDDBEA;
+    text-decoration: none;
+    display: block;
+  }
+}
+
+/* Année du film - Desktop */
+@media (min-width: 769px) {
+  .film-year {
+    color: #C27AFF;
+    font-size: 1rem;
+  }
+}
+
+/* Année du film - Mobile */
+@media (max-width: 768px) {
+  .film-year {
+    color: #C27AFF;
+  }
 }
 
 /* Effet au survol */
