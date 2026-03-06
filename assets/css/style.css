@@ -144,7 +144,7 @@ body {
 /* Sur mobile: prendre plus de largeur */
 @media (max-width: 768px) {
   .films-list {
-    max-width: 90%; /* 90% de la largeur disponible */
+    max-width: 95%; /* 90% de la largeur disponible */
     padding: 0 20px; /* Ajouter un peu de marge */
   }
 }
