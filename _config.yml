@@ -1,4 +1,7 @@
 title: Comifo Media
+baseurl: ""  # Laisse vide si ton site est à la racine du domaine
+url: "https://comifo-media.github.io"  # URL de ton site GitHub Pages
+
 collections:
   films:
     output: false
@@ -8,3 +11,8 @@ defaults:
       path: "_films"
     values:
       layout: default
+  - scope:
+      path: "_pages"
+    values:
+      layout: default
+
