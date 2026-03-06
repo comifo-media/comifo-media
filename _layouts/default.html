@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }} - Comifo Media</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+  <!-- Le contenu de index.html sera inséré ici (y compris le hero) -->
+  {{ content }}
+
+  <!-- Footer après le contenu -->
+  <footer class="site-footer">
+    <p>© {{ site.time | date: "%Y" }} Comifo Media. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
+

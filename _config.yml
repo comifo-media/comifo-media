@@ -1,0 +1,10 @@
+title: Comifo Media
+collections:
+  films:
+    output: false
+
+defaults:
+  - scope:
+      path: "_films"
+    values:
+      layout: default
