@@ -381,6 +381,6 @@ body {
 .film-item:hover {
   background-color: rgba(250, 128, 114, 0.8); /* Fond plus clair au survol */
 }
-/* body {
-  background-color: #008CFF;
-} */
+ body {
+  background-color: #0C2747;
+} 
