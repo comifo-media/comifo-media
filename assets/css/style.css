@@ -71,7 +71,7 @@ body {
 /* Sous-titre (ordre de dépot) */
 .selection-subtitle {
   text-align: center !important;
-  font-size: 0.9rem !important;
+  font-size: 1.5rem !important;
   color: rgba(255, 255, 255, 0.7) !important;
   margin: 0 0 2rem 0 !important;
   font-weight: normal !important;
