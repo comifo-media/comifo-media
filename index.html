@@ -28,7 +28,12 @@ title: "Accueil"
   <section class="films">
     <div class="films-grid">
       {% assign sorted_films = site.films | sort: "date" | reverse %}
-      {% for film in sorted_films %}
+      {% assign page_num = page.pagenum | default: 1 | plus: 0 %}
+      {% assign films_per_page = 15 %}
+      {% assign start_index = page_num | minus: 1 | times: films_per_page %}
+      {% assign end_index = start_index | plus: films_per_page %}
+      
+      {% for film in sorted_films limit: films_per_page offset: start_index %}
         <div class="film-card">
           <img src="{{ film.affiche | relative_url }}" alt="{{ film.titre }}" class="film-poster">
           <div class="film-info">
@@ -44,4 +49,21 @@ title: "Accueil"
       {% endfor %}
     </div>
   </section>
+
+  <!-- Pagination Précédent/Suivant -->
+  <div class="pagination-simple">
+    {% assign page_num = page.pagenum | default: 1 | plus: 0 %}
+    {% assign total_films = site.films | size %}
+    {% assign total_pages = total_films | divided_by: 15 | ceil %}
+    
+    {% if page_num > 1 %}
+      <a href="{% if page_num == 2 %}/comifo-media/{% else %}/comifo-media/?pagenum={{ page_num | minus: 1 }}{% endif %}" class="pagination-simple-btn">← Précédent</a>
+    {% endif %}
+    
+    <span class="pagination-info">Page {{ page_num }} sur {{ total_pages }}</span>
+    
+    {% if page_num < total_pages %}
+      <a href="/comifo-media/?pagenum={{ page_num | plus: 1 }}" class="pagination-simple-btn">Suivant →</a>
+    {% endif %}
+  </div>
 </main>
