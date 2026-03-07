@@ -1,10 +1,10 @@
-/* Reset et base */
+/* Reset et base #0C2747 */
 * {
   box-sizing: border-box !important;
 }
 
 body {
-  background-color: #0C2747 !important;
+  background-color: #8B12A6 !important;
   color: white !important;
   font-family: Arial, sans-serif !important;
   margin: 0 !important;
