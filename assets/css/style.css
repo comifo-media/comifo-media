@@ -41,7 +41,7 @@ body {
 
 /* Section Hero */
 .hero {
-  background: url('/assets/images/ton-image.jpg') no-repeat center center !important;
+  background: url('/assets/images/film.webp') no-repeat center center !important;
   background-size: cover !important;
   height: 300px !important;
   display: flex !important;
