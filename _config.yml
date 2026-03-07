@@ -1,6 +1,6 @@
 title: Comifo Media
-baseurl: "/comifo-media"  # Laisse vide si ton site est à la racine du domaine
-url: "https://comifo-media.github.io"  # URL de ton site GitHub Pages
+baseurl: "/comifo-media"
+url: "https://comifo-media.github.io"
 
 collections:
   films:
@@ -16,12 +16,6 @@ defaults:
     values:
       layout: default
 
-plugins:
-  - jekyll-paginate
-
-paginate: 15
-paginate_path: "/comifo-media/page/:num/"
-      
 plugins:
   - jekyll-paginate
 
