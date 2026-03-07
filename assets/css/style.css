@@ -198,17 +198,26 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .film-poster {
+    height: 250px;
+  }
+
   .films-list {
     max-width: 100% !important;
     padding: 0 15px !important;
   }
 
   .film-link {
-    font-size: 1.2rem !important;
+    font-size: 1.5rem !important;
   }
 
   .film-year {
-    font-size: 1.1rem !important;
+    font-size: 1.4rem !important;
+  }
+
+  .film-item {
+    padding: 1rem 1.5rem !important;
+    margin: 1rem 0 !important;
   }
 }
 
@@ -220,11 +229,16 @@ body {
   }
 
   .film-link {
-    font-size: 2rem !important;
+    font-size: 2.5rem !important;
   }
 
   .film-year {
-    font-size: 1.9rem !important;
+    font-size: 2.3rem !important;
+  }
+
+  .film-item {
+    padding: 1.5rem 1rem !important;
+    margin: 1.2rem 0 !important;
   }
 }
 
