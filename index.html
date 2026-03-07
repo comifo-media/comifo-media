@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Accueil"
+pagination:
+  enabled: true
 ---
 <!-- Section Hero avec fond -->
 <div class="hero" style="background-image: url('https://imgs.search.brave.com/OIBvPEsG2-YWzg2AmIUvrLtnDFgGtvrIpQzXk0wj-Jk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cGhvdG9zLWdyYXR1/aXRlL2NvbGxhZ2Ut/Zm9uZC1maWxtXzIz/LTIxNDk4NzYwMDMu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw');">
@@ -21,13 +23,13 @@ title: "Accueil"
 <!-- Contenu principal -->
 <main>
   <section class="intro">
-      <h2 class="selection-title">Sélection films pour la bande à Comifo</h2>
-      <h3 class="selection-subtitle">(Dans l'ordre de dépot.)</h3>
+    <h2 class="selection-title">Sélection films pour la bande à Comifo</h2>
+    <h3 class="selection-subtitle">(Dans l'ordre de dépot.)</h3>
   </section>
 
   <section class="films">
     <div class="films-grid">
-      {% assign sorted_films = site.films | sort: "date" | reverse %}
+      {% assign sorted_films = paginator.posts | sort: "date" | reverse %}
       {% for film in sorted_films %}
         <div class="film-card">
           <img src="{{ film.affiche | relative_url }}" alt="{{ film.titre }}" class="film-poster">
@@ -41,7 +43,26 @@ title: "Accueil"
             </div>
           </div>
         </div>
-      {% endfor %}  <!-- Assure-toi que cette ligne est présente -->
+      {% endfor %}
     </div>
   </section>
+
+  <!-- Pagination -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="pagination-btn pagination-prev">← Précédent</a>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="pagination-num active">{{ page }}</span>
+      {% else %}
+        <a href="{% if page == 1 %}/comifo-media/{% else %}/comifo-media/page/{{ page }}/{% endif %}" class="pagination-num">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="pagination-btn pagination-next">Suivant →</a>
+    {% endif %}
+  </div>
 </main>
