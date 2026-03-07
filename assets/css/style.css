@@ -1,10 +1,10 @@
-/* Reset et base #0C2747 */
+/* Reset et base #0C2747 #FF12A6 */
 * {
   box-sizing: border-box !important;
 }
 
 body {
-  background-color: #FF12A6 !important;
+  background-color: #0C2747 !important;
   color: white !important;
   font-family: Arial, sans-serif !important;
   margin: 0 !important;
