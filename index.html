@@ -26,7 +26,8 @@ title: "Accueil"
 
   <section class="films">
     <div class="films-grid">
-      {% for film in site.films %}
+      {% assign sorted_films = site.films | sort: "date" | reverse %}
+      {% for film in sorted_films %}
         <div class="film-card">
           <img src="{{ film.affiche | relative_url }}" alt="{{ film.titre }}" class="film-poster">
           <div class="film-info">
