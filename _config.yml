@@ -16,8 +16,3 @@ defaults:
     values:
       layout: default
 
-plugins:
-  - jekyll-paginate
-
-paginate: 15
-paginate_path: "/comifo-media/page/:num/"
