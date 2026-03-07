@@ -26,7 +26,8 @@ permalink: /films/
 
 <section class="films">
   <ul class="films-list">
-    {% for film in site.films %}
+    {% assign sorted_films = site.films | sort: "date" | reverse %}
+    {% for film in sorted_films %}
       <li class="film-item">
         {% if film.bande_annonce %}
           <a href="{{ film.bande_annonce }}" class="film-link">
