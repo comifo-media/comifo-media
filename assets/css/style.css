@@ -266,3 +266,8 @@ body {
   margin-top: 2rem !important;
   border-top: 2px solid rgba(255, 255, 255, 0.8) !important;
 }
+
+.apropo {
+    font-size: 2rem !important;
+    text-align: center !important;
+}
