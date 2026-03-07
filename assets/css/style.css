@@ -259,7 +259,6 @@ body {
 .film-link {
   color: #CDDBEA;
   text-decoration: none;
-  font-size: 1.1rem;
   display: block;
   transition: color 0.3s ease;
 }
@@ -271,8 +270,8 @@ body {
 /* Année du film */
 .film-year {
   color: #C27AFF;
-  font-size: 1rem;
 }
+
 body {
-  background-color: #FFF747;
+  background-color: #000747;
 }
