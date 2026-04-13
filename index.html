@@ -1,0 +1,47 @@
+---
+layout: default
+title: "Accueil"
+---
+<!-- Section Hero avec fond -->
+<div class="hero" style="background-image: url('https://imgs.search.brave.com/OIBvPEsG2-YWzg2AmIUvrLtnDFgGtvrIpQzXk0wj-Jk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cGhvdG9zLWdyYXR1/aXRlL2NvbGxhZ2Ut/Zm9uZC1maWxtXzIz/LTIxNDk4NzYwMDMu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw');">
+  <div class="hero-content">
+    <h1>Bienvenue sur Comifo Media</h1>
+  </div>
+</div>
+
+<!-- Menu de navigation -->
+<header class="site-header">
+  <nav>
+    <a href="/comifo-media/"><i class="fas fa-home"></i> Accueil</a>
+    <a href="/comifo-media/films/"><i class="fas fa-film"></i> Tous les films</a>
+    <a href="/comifo-media/about/"><i class="fas fa-info-circle"></i> À propos</a>
+  </nav>
+</header>
+
+<!-- Contenu principal -->
+<main>
+  <section class="intro">
+    <h2 class="selection-title">Sélection films pour la bande à Comifo</h2>
+    <h3 class="selection-subtitle">(Les 30 derniers dépots)</h3>
+  </section>
+
+  <section class="films">
+    <div class="films-grid">
+      {% assign sorted_films = site.films | sort: "date" | reverse %}
+      {% for film in sorted_films limit: 30 %}
+        <div class="film-card">
+          <img src="{{ film.affiche | relative_url }}" alt="{{ film.titre }}" class="film-poster">
+          <div class="film-info">
+            <h3>{{ film.titre }} <span class="film-year">({{ film.annee }})</span></h3>
+            <p class="film-synopsis">{{ film.synopsis }}</p>
+            <div class="film-button-container">
+              {% if film.bande_annonce %}
+                <a href="{{ film.bande_annonce }}" class="film-button">Voir la bande-annonce</a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+</main>
