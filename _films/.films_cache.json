@@ -1,75 +1,515 @@
 {
   "Alpha_2025": {
     "adult": false,
-    "backdrop_path": "/Gn7CHQKw5rgQrnVQhvGnlOaD8F.jpg",
+    "backdrop_path": "/rakS8RAhKOMIplBi4RbluQg4Xqn.jpg",
     "genre_ids": [
-      12,
-      18
+      27,
+      18,
+      878
     ],
-    "id": 399360,
-    "original_language": "en",
+    "id": 1284460,
+    "original_language": "fr",
     "original_title": "Alpha",
-    "overview": "En Europe, il y a 20 000 ans, durant l'ère Paléolithique supérieur, un jeune homme part braver une nature dangereuse et inhospitalière afin de retrouver le chemin de sa tribu.",
-    "popularity": 6.8278,
-    "poster_path": "/itGxbcKtQULAitmJa5gj6QpLy8q.jpg",
-    "release_date": "2018-08-17",
+    "overview": "Alpha, 13 ans, est une adolescente agitée qui vit seule avec sa mère. Leur monde s’écroule le jour où elle rentre de l'école avec un tatouage sur le bras.",
+    "popularity": 17.205,
+    "poster_path": "/iE3P4LFSJCBX5PRWxbPs7DQh7yI.jpg",
+    "release_date": "2025-08-20",
     "title": "Alpha",
     "video": false,
-    "vote_average": 6.5,
-    "vote_count": 2700,
+    "vote_average": 6.4,
+    "vote_count": 105,
     "belongs_to_collection": null,
-    "budget": 51000000,
+    "budget": 0,
     "genres": [
       {
-        "id": 12,
-        "name": "Aventure"
+        "id": 27,
+        "name": "Horreur"
       },
       {
         "id": 18,
         "name": "Drame"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
       }
     ],
     "homepage": "",
-    "imdb_id": "tt4244998",
+    "imdb_id": "tt32275943",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 237221,
+        "logo_path": null,
+        "name": "Mandarin & Compagnie",
+        "origin_country": "FR"
+      },
+      {
+        "id": 121655,
+        "logo_path": null,
+        "name": "Kallouche Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 49473,
+        "logo_path": "/d0Cld16NzSAizrXfO6jrN3nH6az.png",
+        "name": "Frakas Productions",
+        "origin_country": "BE"
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 792,
+        "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+        "name": "RTBF",
+        "origin_country": "BE"
+      },
+      {
+        "id": 92187,
+        "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+        "name": "Proximus",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24430,
+        "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+        "name": "BeTV",
+        "origin_country": "BE"
+      },
+      {
+        "id": 245340,
+        "logo_path": "/kTHYCmbAbITXhOhyAv6dBD4Gp37.png",
+        "name": "Orange",
+        "origin_country": "BE"
+      },
+      {
+        "id": 95061,
+        "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+        "name": "Shelter Prod",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Persian",
+        "iso_639_1": "fa",
+        "name": "فارسی"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "UnPtitTrucEnPlus_2024": {
+    "adult": false,
+    "backdrop_path": "/rTNMyZ5JcrfKnPamaYOo9wzq3m5.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 1152014,
+    "original_language": "fr",
+    "original_title": "Un p'tit truc en plus",
+    "overview": "Pour échapper à la police, un père et son fils sont contraints de trouver refuge dans une colonie de vacances pour jeunes adultes en situation de handicap mental, endossant le rôle d’un éducateur et d’un pensionnaire. Le début des emmerdes et d’une formidable expérience humaine qui va les changer à jamais.",
+    "popularity": 1.8938,
+    "poster_path": "/uIlJ1wOlEt5K3NowJQDG4qscQAC.jpg",
+    "release_date": "2024-04-18",
+    "title": "Un p'tit truc en plus",
+    "video": false,
+    "vote_average": 7.123,
+    "vote_count": 815,
+    "belongs_to_collection": null,
+    "budget": 6400000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comédie"
+      },
+      {
+        "id": 10751,
+        "name": "Familial"
+      }
+    ],
+    "homepage": "https://cinenomine.com/un-ptit-truc-en-plus-d-artus/",
+    "imdb_id": "tt30795948",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 22385,
+        "logo_path": "/3oX9AAEqsmRbu5ekAQRomf8MBEt.png",
+        "name": "Cine Nomine",
+        "origin_country": "FR"
+      },
+      {
+        "id": 109756,
+        "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+        "name": "Auvergne-Rhône-Alpes Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 1115,
+        "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+        "name": "M6 Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 4696,
+        "logo_path": "/1mZDiaR5yCEe4ayKC8UGx81LtuX.png",
+        "name": "Same Player",
+        "origin_country": "FR"
+      },
+      {
+        "id": 140218,
+        "logo_path": "/rmqRbG8Pr26Tr53LCCEcFzE6eVi.png",
+        "name": "Echo Studio",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 84058132,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ils avaient prévu le casse du siècle, ils ont trouvé la planque idéale."
+  },
+  "Lhommequiretrecit_2025": null,
+  "Lhommequiretrecit": null,
+  "ClasseMoyenne_2025": {
+    "adult": false,
+    "backdrop_path": "/zLwnREvYKyG5XY1gqDWmfziXbhr.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1313211,
+    "original_language": "fr",
+    "original_title": "Classe moyenne",
+    "overview": "Mehdi a prévu de passer un été tranquille dans la somptueuse demeure de ses beaux-parents. Mais dès son arrivée, un conflit éclate entre la famille de sa fiancée et le couple de gardiens de la villa. Comme Mehdi est issu d’un milieu modeste, il pense pouvoir mener les négociations entre les deux parties et ramener tout le monde à la raison. Pourtant, tout s’envenime…",
+    "popularity": 0.9126,
+    "poster_path": "/2TznRLhTEzMVS8JibDU5tKzTMkl.jpg",
+    "release_date": "2025-09-24",
+    "title": "Classe moyenne",
+    "video": false,
+    "vote_average": 5.977,
+    "vote_count": 64,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comédie"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt32916648",
+    "origin_country": [
+      "BE",
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 178908,
+        "logo_path": "/qzt3zYa0nrQQJy1VJCmbbHfOGAm.png",
+        "name": "Cheyenne Federation",
+        "origin_country": "FR"
+      },
+      {
+        "id": 19037,
+        "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+        "name": "uMedia",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "MamereDieuetSylvieVartan_2025": null,
+  "MamereDieuetSylvieVartan": null,
+  "Dracula_2025": {
+    "adult": false,
+    "backdrop_path": "/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
+    "genre_ids": [
+      27,
+      14,
+      10749
+    ],
+    "id": 1246049,
+    "original_language": "fr",
+    "original_title": "Dracula",
+    "overview": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
+    "popularity": 39.8779,
+    "poster_path": "/hCKkybW6EfSZoOW3xia9ZsQwaUd.jpg",
+    "release_date": "2025-07-30",
+    "title": "Dracula",
+    "video": false,
+    "vote_average": 7.073,
+    "vote_count": 1072,
+    "belongs_to_collection": null,
+    "budget": 52000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 14,
+        "name": "Fantastique"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.snd-films.com/movies/47",
+    "imdb_id": "tt31434030",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 6896,
+        "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+        "name": "EuropaCorp",
+        "origin_country": "FR"
+      },
+      {
+        "id": 356,
+        "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+        "name": "TF1 Films Production",
+        "origin_country": "FR"
+      },
+      {
+        "id": 2902,
+        "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+        "name": "SND",
+        "origin_country": "FR"
+      },
+      {
+        "id": 18626,
+        "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+        "name": "Kinology",
+        "origin_country": "FR"
+      },
+      {
+        "id": 255253,
+        "logo_path": null,
+        "name": "Actarus Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 170748,
+        "logo_path": null,
+        "name": "Luc Besson Production",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 33593404,
+    "runtime": 129,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Romanian",
+        "iso_639_1": "ro",
+        "name": "Română"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Il a renié sa foi pour devenir immortel. La passion, la colère, la vengeance et la haine se déchaîneront dans le monde moderne."
+  },
+  "Lafemmedemenage_2025": null,
+  "Lafemmedemenage": null,
+  "Leilaetsesfreres_2022": null,
+  "Leilaetsesfreres": null,
+  "BooksBlood_2020": {
+    "adult": false,
+    "backdrop_path": "/oLA6GlYvfUAAzITiXo56NEKjVQE.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 715123,
+    "original_language": "en",
+    "original_title": "Books of Blood",
+    "overview": "Mary, une brillante psychologue mystico-sceptique fait face à la mort de son fils de 7 ans. Son nouvel amant, Simon, la convainc de pouvoir parler à son fils mort. Ses certitudes sont chamboulées... Au même moment, Jenna, une fille qui souffre de misophonie - une aversion pour les bruits - se met en route pour Los Angeles. Parallèlement, Bennett, un tueur professionnel apprend de la bouche de sa dernière cible, l'existence d'un livre à la valeur inestimable... Afin de le récupérer, Bennett va devoir affronter des menaces surnaturelles.",
+    "popularity": 1.4542,
+    "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+    "release_date": "2020-10-07",
+    "title": "Books of Blood",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 497,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt11242218",
     "origin_country": [
       "US"
     ],
     "production_companies": [
       {
-        "id": 77863,
-        "logo_path": "/7z6YOzvdk70YY8OaRbn5mfxrvbO.png",
-        "name": "Studio 8",
+        "id": 8789,
+        "logo_path": "/1smGq637YoNgkeBZXt7TAPDYGda.png",
+        "name": "Fuzzy Door Productions",
         "origin_country": "US"
       },
       {
-        "id": 5,
-        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-        "name": "Columbia Pictures",
+        "id": 141822,
+        "logo_path": "/wYbXNFxFTLqIZjeE6FlvEUOzPlG.png",
+        "name": "Touchstone Television",
         "origin_country": "US"
-      },
-      {
-        "id": 102774,
-        "logo_path": "/9novy7zPpam3XVmfE3jXG4MexAr.png",
-        "name": "Fosun Pictures",
-        "origin_country": "CN"
       }
     ],
     "production_countries": [
       {
-        "iso_3166_1": "CA",
-        "name": "Canada"
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Toutes les histoires prennent fin ici."
+  },
+  "Pourl'éternité_2025": null,
+  "Pourl'éternité": null,
+  "Inheritance_2025": {
+    "adult": false,
+    "backdrop_path": "/fuRRTlFH4qazNjUSAmnmGMyNq29.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1297860,
+    "original_language": "en",
+    "original_title": "Inheritance",
+    "overview": "À la mort de sa mère, Maya retrouve son père à New York. Celui-ci l'emmène au Caire, où il est alors enlevé. Pour le sauver, elle plonge dans une traque de l'Égypte à l'Asie, découvrant une machination mondiale. Manipulée mais déterminée, elle choisit son propre destin et garde le véritable secret.",
+    "popularity": 3.3637,
+    "poster_path": "/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
+    "release_date": "2025-01-24",
+    "title": "Inheritance",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 82,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.primevideo.com/detail/0KGIN3XJ8D6E4T3DGIL70FWZ3V",
+    "imdb_id": "tt31050620",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
       },
+      {
+        "id": 211413,
+        "logo_path": null,
+        "name": "Nota Bene Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
       {
         "iso_3166_1": "US",
         "name": "United States of America"
-      },
-      {
-        "iso_3166_1": "CN",
-        "name": "China"
       }
     ],
-    "revenue": 99630675,
-    "runtime": 96,
+    "revenue": 0,
+    "runtime": 101,
     "spoken_languages": [
       {
         "english_name": "English",
@@ -79,6 +519,1367 @@
     ],
     "status": "Released",
     "tagline": ""
+  },
+  "MarceletMonsieurPagnol_2025": null,
+  "MarceletMonsieurPagnol": null,
+  "L'étranger_2025": {
+    "adult": false,
+    "backdrop_path": "/b1oJ5K2cVXMCC7p33YdhDYhhU0F.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1429348,
+    "original_language": "fr",
+    "original_title": "L'Étranger",
+    "overview": "Alger, 1938. Meursault, un jeune homme d’une trentaine d’années, modeste employé, enterre sa mère sans manifester la moindre émotion. Le lendemain, il entame une liaison avec Marie, une collègue de bureau. Puis il reprend sa vie de tous les jours. Mais son voisin, Raymond Sintès vient perturber son quotidien en l’entraînant dans des histoires louches jusqu’à un drame sur une plage, sous un soleil de plomb…",
+    "popularity": 6.8444,
+    "poster_path": "/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
+    "release_date": "2025-10-29",
+    "title": "L'Étranger",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 136,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt36243564",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 149,
+        "logo_path": null,
+        "name": "FOZ",
+        "origin_country": "FR"
+      },
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 9,
+        "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+        "name": "Gaumont",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11199,
+        "logo_path": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
+        "name": "SCOPE Pictures",
+        "origin_country": "BE"
+      },
+      {
+        "id": 88902,
+        "logo_path": "/48RWqWpUvvtYQBcdyAmLFbaTByv.png",
+        "name": "Macassar Productions",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "MA",
+        "name": "Morocco"
+      }
+    ],
+    "revenue": 6678581,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "Lattachement_2025": {
+    "adult": false,
+    "backdrop_path": "/7UABiSiMvOKXU6kxNrStIUo2IVM.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1096642,
+    "original_language": "fr",
+    "original_title": "L'Attachement",
+    "overview": "Sandra, quinquagénaire farouchement indépendante, partage soudainement et malgré elle l’intimité de son voisin de palier et de ses deux enfants. Contre toute attente, elle s’attache peu à peu à cette famille d’adoption.",
+    "popularity": 1.5285,
+    "poster_path": "/pP7I0DIw7ydWM8QycAfK64S9eK7.jpg",
+    "release_date": "2025-02-19",
+    "title": "L'Attachement",
+    "video": false,
+    "vote_average": 7.119,
+    "vote_count": 248,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "https://diaphana.fr/film/lattachement/",
+    "imdb_id": "tt33030403",
+    "origin_country": [
+      "BE",
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 23577,
+        "logo_path": "/2e69chGou2s3oizXcL36hnT2W1j.png",
+        "name": "Karé Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 19037,
+        "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+        "name": "uMedia",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "L'amour n'a pas de liens, il a des racines."
+  },
+  "Nino_2025": {
+    "adult": false,
+    "backdrop_path": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1313229,
+    "original_language": "fr",
+    "original_title": "Nino",
+    "overview": "Dans trois jours, Nino devra affronter une grande épreuve. D’ici là, les médecins lui ont confié deux missions. Deux impératifs qui vont mener le jeune homme à travers Paris, le pousser à refaire corps avec les autres et avec lui-même.",
+    "popularity": 1.4072,
+    "poster_path": "/9CVznZzn87Nx0GXblrukCCJSy7u.jpg",
+    "release_date": "2025-09-17",
+    "title": "Nino",
+    "video": false,
+    "vote_average": 7.211,
+    "vote_count": 64,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt35519445",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 30432,
+        "logo_path": "/7TlySFa08WRjn1X6m2KJyWtgukN.png",
+        "name": "Blue Monday Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 286057,
+        "logo_path": null,
+        "name": "Belleville Production",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "ISpitOnYourGraveII_2013": null,
+  "ISpitOnYourGraveII": null,
+  "ISpitonYourGrave_2010": null,
+  "ISpitonYourGrave": null,
+  "Taspaschange_2025": null,
+  "Taspaschange": null,
+  "HellinParadise_2025": null,
+  "HellinParadise": null,
+  "Bark_2024": {
+    "adult": false,
+    "backdrop_path": "/kNcbJs4jJWcrEeAPQRnED3FTNFx.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1146892,
+    "original_language": "en",
+    "original_title": "Bark",
+    "overview": "Nolan Bentley, un homme sans histoire, se réveille au milieu d'une forêt isolée, attaché à un arbre. Il n'a aucun souvenir de la façon dont il est arrivé là. Les jours passent et rien ne vient rompre son isolement jusqu'à ce qu'un amateur de plein air le découvre par hasard, mais refuse poliment de l'aider...",
+    "popularity": 0.7877,
+    "poster_path": "/oOfPCEijTMEAwrGkK6Y8IkpKm7r.jpg",
+    "release_date": "2024-10-24",
+    "title": "Bark",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 23,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt18110702",
+    "origin_country": [
+      "DE"
+    ],
+    "production_companies": [
+      {
+        "id": 209252,
+        "logo_path": null,
+        "name": "Widescreen Entertainment",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "Evanouis_2025": {
+    "adult": false,
+    "backdrop_path": "/8VyTWJrNEyV2MTWvniDVp0MpOAe.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1078605,
+    "original_language": "en",
+    "original_title": "Weapons",
+    "overview": "En plein cœur de la nuit, les 17 enfants d'une classe de l'école primaire de Maybrook aux États-Unis se réveillent à une heure précise et s'enfuient de leurs foyers. Mus par une force inébranlable, ils sont partis à la course et personne ne sait où ils s'en sont allés. Tous ont disparu, sauf un. Alex est le seul élève restant. Paniqués et inquiets, les parents soupçonnent l'enseignante Justine Gandy d'avoir manigancé quelque chose.",
+    "popularity": 19.6192,
+    "poster_path": "/3eRJV97oZDY6LORwPNdWlfdPLnd.jpg",
+    "release_date": "2025-08-04",
+    "title": "Évanouis",
+    "video": false,
+    "vote_average": 7.253,
+    "vote_count": 3219,
+    "belongs_to_collection": {
+      "id": 1531466,
+      "name": "Évanouis - Saga",
+      "poster_path": "/IUmfYfmZiVfxTYtxRcsIV2ujJ3.jpg",
+      "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
+    },
+    "budget": 38000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 9648,
+        "name": "Mystère"
+      }
+    ],
+    "homepage": "https://newsroom.warnerbros.fr/weapons",
+    "imdb_id": "tt26581740",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 240675,
+        "logo_path": null,
+        "name": "Subconscious",
+        "origin_country": "US"
+      },
+      {
+        "id": 829,
+        "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+        "name": "Vertigo Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 18609,
+        "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
+        "name": "BoulderLight Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 269972492,
+    "runtime": 129,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "À 2h17, 17 enfants sont sortis de chez eux… et ne sont jamais revenus."
+  },
+  "LeSifflet_2026": {
+    "adult": false,
+    "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1193501,
+    "original_language": "en",
+    "original_title": "Whistle",
+    "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
+    "popularity": 126.7564,
+    "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
+    "release_date": "2026-01-20",
+    "title": "Le Sifflet",
+    "video": false,
+    "vote_average": 5.991,
+    "vote_count": 235,
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 9648,
+        "name": "Mystère"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt29550683",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 35846,
+        "logo_path": "/tOJlsgZNRdMurnJgSiuRFIUz0te.png",
+        "name": "No Trace Camping",
+        "origin_country": "US"
+      },
+      {
+        "id": 129815,
+        "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+        "name": "Wild Atlantic Pictures",
+        "origin_country": "IE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 4633854,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "Unefemmeenjeu_2024": null,
+  "Unefemmeenjeu": null,
+  "Andy_2019": {
+    "adult": false,
+    "backdrop_path": "/k5vrDpgX2wXgQ4mWYLgkFuY5PGB.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 611241,
+    "original_language": "fr",
+    "original_title": "Andy",
+    "overview": "Thomas, un doux oisif, a toujours réussi à mener sa vie sans faire le moindre effort ; jusqu’au jour où il se retrouve à la rue contraint de vivre dans un foyer. C’est là qu’il rencontre Margaux, qui y travaille mais surtout s’y réfugie après une histoire d’amour douloureuse. Obligé de travailler, Thomas pense avoir trouvé le job idéal : escort boy. Or, même ça il ne peut le faire comme tout le monde. Il va alors entrainer Margaux dans un partenariat aux rebondissements aussi drôles qu’inattendus.",
+    "popularity": 0.9374,
+    "poster_path": "/wLDDn47zFSGqfFgq3cewsaW8I2U.jpg",
+    "release_date": "2019-09-04",
+    "title": "Andy",
+    "video": false,
+    "vote_average": 5.491,
+    "vote_count": 54,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comédie"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt8956156",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 121496,
+        "logo_path": "/7OsUahXygDLK64csJGTRbpb1yBi.png",
+        "name": "My Family",
+        "origin_country": "FR"
+      },
+      {
+        "id": 342,
+        "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+        "name": "Davis Films",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "Menteur. Fainéant. Attachant. Escroc. Charmeur. Loser. Escort boy. Fauché."
+  },
+  "Conclave-_2024": {
+    "adult": false,
+    "backdrop_path": "/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 974576,
+    "original_language": "en",
+    "original_title": "Conclave",
+    "overview": "Le Cardinal Lawrence est chargé de gérer ce processus confidentiel après la mort inattendue du Pape bien-aimé. Lorsque tous les dirigeants les plus puissants de l’Église catholique sont réunis et enfermés dans le Vatican, Lawrence se retrouve au centre d’une conspiration et découvre un secret qui pourrait changer à jamais l’institution religieuse.",
+    "popularity": 8.7913,
+    "poster_path": "/8BPRVN1oajfhnDFJiaN3cc4nhso.jpg",
+    "release_date": "2024-10-25",
+    "title": "Conclave",
+    "video": false,
+    "vote_average": 7.193,
+    "vote_count": 3316,
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt20215234",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7493,
+        "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+        "name": "FilmNation Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 9350,
+        "logo_path": "/xz60JVoUHpOeg1cJbxzMJiwbuL7.png",
+        "name": "Indian Paintbrush",
+        "origin_country": "US"
+      },
+      {
+        "id": 112783,
+        "logo_path": "/g95BBJvKyOawT3sGVXTdDG72Qad.png",
+        "name": "House Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 115657988,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ce qui se déroule derrière ces murs changera tout."
+  },
+  "Hurlevent_2026": {
+    "adult": false,
+    "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1316092,
+    "original_language": "en",
+    "original_title": "\"Wuthering Heights\"",
+    "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+    "popularity": 91.0269,
+    "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+    "release_date": "2026-02-11",
+    "title": "“Hurlevent”",
+    "video": false,
+    "vote_average": 6.533,
+    "vote_count": 747,
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt32897959",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      },
+      {
+        "id": 82968,
+        "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+        "name": "LuckyChap Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 207685,
+        "logo_path": null,
+        "name": "Lie Still",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "revenue": 240401072,
+    "runtime": 136,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Jusqu'à la folie"
+  },
+  "Insaisissable3": {
+    "adult": false,
+    "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "id": 425274,
+    "original_language": "en",
+    "original_title": "Now You See Me: Now You Don't",
+    "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
+    "popularity": 46.4877,
+    "poster_path": "/rfjuf6kNLVnH8qOk6UZJBHQHKlF.jpg",
+    "release_date": "2025-11-12",
+    "title": "Insaisissables 3",
+    "video": false,
+    "vote_average": 6.506,
+    "vote_count": 1367,
+    "belongs_to_collection": {
+      "id": 382685,
+      "name": "Insaisissables - Saga",
+      "poster_path": "/JAzLUXjXJEGp9IKR7jEY4L2VSL.jpg",
+      "backdrop_path": "/scBzORmLqP00h8hPKS19TLtyRQm.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt4712810",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 281285,
+        "logo_path": null,
+        "name": "Cohen Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 221429,
+        "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+        "name": "Media Capital Technologies",
+        "origin_country": "US"
+      },
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 242431024,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Grand spectacle. Très grand braquage."
+  },
+  "Sinners_2025": {
+    "adult": false,
+    "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53
+    ],
+    "id": 1233413,
+    "original_language": "en",
+    "original_title": "Sinners",
+    "overview": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience.",
+    "popularity": 31.0414,
+    "poster_path": "/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
+    "release_date": "2025-04-16",
+    "title": "Sinners",
+    "video": false,
+    "vote_average": 7.473,
+    "vote_count": 4314,
+    "belongs_to_collection": null,
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://newsroom.warnerbros.fr/sinners",
+    "imdb_id": "tt31193180",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 148495,
+        "logo_path": "/2fQRDickgp9vuDIxJTlDLEs7j0y.png",
+        "name": "Proximity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 369425281,
+    "runtime": 138,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Yoruba",
+        "iso_639_1": "yo",
+        "name": "Èdè Yorùbá"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Une nuit pour survivre."
+  },
+  "Superman_2025": {
+    "adult": false,
+    "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 1061474,
+    "original_language": "en",
+    "original_title": "Superman",
+    "overview": "Superman doit trouver l’équilibre entre ses racines kryptoniennes et son identité humaine, sous les traits de Clark Kent, originaire de Smallville, dans le Kansas. Il est l’incarnation de la vérité, de la justice et des valeurs américaines et il est animé par une véritable bienveillance dans un monde qui considère cette qualité comme obsolète.",
+    "popularity": 30.0602,
+    "poster_path": "/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
+    "release_date": "2025-07-09",
+    "title": "Superman",
+    "video": false,
+    "vote_average": 7.343,
+    "vote_count": 4591,
+    "belongs_to_collection": {
+      "id": 1540907,
+      "name": "Superman (DCU) - Saga",
+      "poster_path": "/2L0dVc82ZWUgo6Fe2lnJ5qqUDId.jpg",
+      "backdrop_path": "/6xQWbcYRHoVDRkyspTy64x8l22m.jpg"
+    },
+    "budget": 225000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Aventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "https://newsroom.warnerbros.fr/superman",
+    "imdb_id": "tt5950044",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 184898,
+        "logo_path": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
+        "name": "DC Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 94218,
+        "logo_path": "/kxuhS8wyKtVprOn5nckdHyNuSg1.png",
+        "name": "Troll Court Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 616823803,
+    "runtime": 130,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La légende renaît... plus forte que jamais."
+  },
+  "Scream7_2026": {
+    "adult": false,
+    "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      80
+    ],
+    "id": 1159559,
+    "original_language": "en",
+    "original_title": "Scream 7",
+    "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
+    "popularity": 166.5954,
+    "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+    "release_date": "2026-02-25",
+    "title": "Scream 7",
+    "video": false,
+    "vote_average": 6.039,
+    "vote_count": 724,
+    "belongs_to_collection": {
+      "id": 2602,
+      "name": "Scream - Saga",
+      "poster_path": "/p3EjClFy20jjT0u06dzBs4lvvhi.jpg",
+      "backdrop_path": "/fG6GzZAwtsW3v2mhB4EyQLMRjUV.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horreur"
+      },
+      {
+        "id": 9648,
+        "name": "Mystère"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt27047903",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 143790,
+        "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+        "name": "Spyglass Media Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 130448,
+        "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+        "name": "Project X Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 211982103,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Tout doit brûler."
+  },
+  "LaBonneEtoile_2025": {
+    "adult": false,
+    "backdrop_path": "/1l944ZcucDLOuXMXDAxJGZJLszR.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1255778,
+    "original_language": "fr",
+    "original_title": "La bonne étoile",
+    "overview": "France 1940, Jean Chevalin et sa famille vivent dans la misère après que ce dernier ait jugé bon de… déserter ! La situation n’est plus tenable. Convaincu que « certains » s’en sortent mieux, Chevalin a une brillante idée : se faire passer pour juifs afin de bénéficier de l’aide des passeurs pour accéder à la zone libre. De malentendus en révélations, il va entrainer sa famille dans ce grand périple qui déconstruira ses préjugés un à un…",
+    "popularity": 0.8694,
+    "poster_path": "/cnl5uatyJqD5KyzHItKAEl8FFoM.jpg",
+    "release_date": "2025-11-12",
+    "title": "La bonne étoile",
+    "video": false,
+    "vote_average": 5.524,
+    "vote_count": 21,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comédie"
+      },
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt32553661",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 7038,
+        "logo_path": "/9YDo78sKAy6xxqBwVBT2Vi9FSZl.png",
+        "name": "Quad Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 161664,
+        "logo_path": null,
+        "name": "Père & Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 230739,
+        "logo_path": null,
+        "name": "Yann Zenou Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Fuir les nazis ? Il n’y a qu’une chose plus importante qu’un bon plan : une étoile porte-bonheur..."
+  },
+  "LesTourmentes_2025": {
+    "adult": false,
+    "backdrop_path": "/2XUSqh4WiRgvRH7mTzKb0hoGqEs.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1284493,
+    "original_language": "fr",
+    "original_title": "Les Tourmentés",
+    "overview": "Ça vaut quoi la vie d’un homme ? D’un homme comme lui. Un homme sans rien. Skender, ancien légionnaire, le découvrira bien assez tôt. \"Madame\", veuve fortunée et passionnée de chasse, s’ennuie. Elle charge alors son majordome d’une terrible mission. Lui trouver un candidat pour une chasse à l’homme moyennant un très juteux salaire. Skender est le gibier idéal. Mais rien ne se passera comme prévu...",
+    "popularity": 1.0951,
+    "poster_path": "/hwGa0XshQ16NcizOkSuRQDsl6Pl.jpg",
+    "release_date": "2025-09-17",
+    "title": "Les Tourmentés",
+    "video": false,
+    "vote_average": 5.019,
+    "vote_count": 26,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt35518681",
+    "origin_country": [
+      "BE",
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 87577,
+        "logo_path": null,
+        "name": "Bizibi Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11773,
+        "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+        "name": "Artémis Productions",
+        "origin_country": "BE"
+      },
+      {
+        "id": 109756,
+        "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+        "name": "Auvergne-Rhône-Alpes Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 792,
+        "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+        "name": "RTBF",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24430,
+        "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+        "name": "BeTV",
+        "origin_country": "BE"
+      },
+      {
+        "id": 92187,
+        "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+        "name": "Proximus",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "LInteretdAdam_2025": null,
+  "LInteretdAdam": null,
+  "Chien51_2025": {
+    "adult": false,
+    "backdrop_path": "/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
+    "genre_ids": [
+      53,
+      878,
+      80,
+      28
+    ],
+    "id": 1266798,
+    "original_language": "fr",
+    "original_title": "Chien 51",
+    "overview": "Dans un futur proche, Paris a été divisé en 3 zones qui séparent les classes sociales et où l’intelligence artificielle ALMA a révolutionné le travail de la police. Jusqu’à ce que son inventeur soit assassiné et que Salia et Zem, deux policiers que tout oppose, soient forcés à collaborer pour mener l’enquête.",
+    "popularity": 5.4421,
+    "poster_path": "/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
+    "release_date": "2025-10-15",
+    "title": "Chien 51",
+    "video": false,
+    "vote_average": 6.218,
+    "vote_count": 232,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt33255286",
+    "origin_country": [
+      "BE",
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 34780,
+        "logo_path": "/ahgzFRXKF2fkOV0WfB0RCxEmxki.png",
+        "name": "Chi-Fou-Mi Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11773,
+        "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+        "name": "Artémis Productions",
+        "origin_country": "BE"
+      },
+      {
+        "id": 694,
+        "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+        "name": "StudioCanal",
+        "origin_country": "FR"
+      },
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 95061,
+        "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+        "name": "Shelter Prod",
+        "origin_country": "BE"
+      },
+      {
+        "id": 275793,
+        "logo_path": null,
+        "name": "Jim Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 109279,
+        "logo_path": "/s5rmTgexkmKEC7Jbt4MTILhuBbU.png",
+        "name": "Taxshelter.be & ING",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dans une ville divisée, ils se battent pour la vérité."
+  },
+  "TheSuperMarioGalaxyMovie_2026": {
+    "adult": false,
+    "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      14,
+      16
+    ],
+    "id": 1226863,
+    "original_language": "en",
+    "original_title": "The Super Mario Galaxy Movie",
+    "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
+    "popularity": 495.4169,
+    "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+    "release_date": "2026-04-01",
+    "title": "Super Mario Galaxy, le film",
+    "video": false,
+    "vote_average": 6.836,
+    "vote_count": 418
   },
   "Un P tit Truc En Plus_2024": {
     "adult": false,
@@ -91,13 +1892,13 @@
     "original_language": "fr",
     "original_title": "Un p'tit truc en plus",
     "overview": "Pour échapper à la police, un père et son fils sont contraints de trouver refuge dans une colonie de vacances pour jeunes adultes en situation de handicap mental, endossant le rôle d’un éducateur et d’un pensionnaire. Le début des emmerdes et d’une formidable expérience humaine qui va les changer à jamais.",
-    "popularity": 1.7831,
+    "popularity": 1.8938,
     "poster_path": "/uIlJ1wOlEt5K3NowJQDG4qscQAC.jpg",
     "release_date": "2024-04-18",
     "title": "Un p'tit truc en plus",
     "video": false,
-    "vote_average": 7.124,
-    "vote_count": 809,
+    "vote_average": 7.123,
+    "vote_count": 815,
     "belongs_to_collection": null,
     "budget": 6400000,
     "genres": [
@@ -167,7 +1968,7 @@
   },
   "L homme qui retrecit_2025": {
     "adult": false,
-    "backdrop_path": "/hjPWg7trJPSZ4tUEZhqGxX1HxUS.jpg",
+    "backdrop_path": "/pgvn1tazqI9mZaRCNQUqNr3umvG.jpg",
     "genre_ids": [
       12,
       878
@@ -176,13 +1977,13 @@
     "original_language": "fr",
     "original_title": "L'Homme qui rétrécit",
     "overview": "Paul, un homme ordinaire, qui partage sa vie entre son entreprise de construction navale, sa femme Élise, et leur fille Mia. Lors d’une sortie en mer, Paul se retrouve confronté à un étrange phénomène météorologique inexpliqué. Dès lors, Paul rétrécit inexorablement, sans que la science ne puisse lui expliquer pourquoi ni lui être d’aucun secours. Quand, par accident, il se retrouve prisonnier dans sa propre cave, et alors qu’il ne mesure plus que quelques centimètres, il va devoir se battre pour survivre dans cet environnement banal devenu hostile. Paul va se retrouver confronté à lui-même, à sa force vitale, celle qui le pousse à continuer à vivre et avancer vers le mystère.",
-    "popularity": 6.7911,
+    "popularity": 4.7484,
     "poster_path": "/xfkQnNFPFP5ITUQ1rCt6rYtnzLH.jpg",
     "release_date": "2025-10-22",
     "title": "L'Homme qui rétrécit",
     "video": false,
-    "vote_average": 5.8,
-    "vote_count": 68,
+    "vote_average": 5.9,
+    "vote_count": 76,
     "belongs_to_collection": null,
     "budget": 24350000,
     "genres": [
@@ -270,13 +2071,13 @@
     "original_language": "fr",
     "original_title": "Classe moyenne",
     "overview": "Mehdi a prévu de passer un été tranquille dans la somptueuse demeure de ses beaux-parents. Mais dès son arrivée, un conflit éclate entre la famille de sa fiancée et le couple de gardiens de la villa. Comme Mehdi est issu d’un milieu modeste, il pense pouvoir mener les négociations entre les deux parties et ramener tout le monde à la raison. Pourtant, tout s’envenime…",
-    "popularity": 1.1206,
+    "popularity": 0.9126,
     "poster_path": "/2TznRLhTEzMVS8JibDU5tKzTMkl.jpg",
     "release_date": "2025-09-24",
     "title": "Classe moyenne",
     "video": false,
-    "vote_average": 5.951,
-    "vote_count": 61,
+    "vote_average": 5.977,
+    "vote_count": 64,
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -323,7 +2124,7 @@
     "status": "Released",
     "tagline": ""
   },
-  "Ma mere Dieu et Sylvie Vartan_2025": {
+  "Ma mere Dieu et Sylvie Vartan ()_2025": {
     "adult": false,
     "backdrop_path": "/qMYb0pTEnsYsYPVD1uJIpOMumYB.jpg",
     "genre_ids": [
@@ -334,13 +2135,13 @@
     "original_language": "fr",
     "original_title": "Ma mère, Dieu et Sylvie Vartan",
     "overview": "En 1963, Esther met au monde Roland, petit dernier d’une famille nombreuse. Roland naît avec un pied-bot qui l’empêche de se tenir debout. Contre l’avis de tous, elle promet à son fils qu’il marchera comme les autres et qu’il aura une vie fabuleuse. Dès lors, Esther n’aura de cesse de tout mettre en œuvre pour tenir cette promesse. À travers des décennies d’épreuves et de miracles de la vie, ce film est le récit d’une histoire vraie, drôle et bouleversante, celle d’un destin incroyable et du plus grand amour qui soit : celui d’une mère pour son enfant.",
-    "popularity": 0.9133,
+    "popularity": 1.8579,
     "poster_path": "/sIYUhbkjgedkYuiQ9MW3fzyc7Gf.jpg",
     "release_date": "2025-03-19",
     "title": "Ma mère, Dieu et Sylvie Vartan",
     "video": false,
-    "vote_average": 6.965,
-    "vote_count": 215,
+    "vote_average": 6.98,
+    "vote_count": 224,
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -410,7 +2211,7 @@
     "status": "Released",
     "tagline": "D'après une histoire vraie."
   },
-  "Dracula_2025": {
+  "Dracula ()_2025": {
     "adult": false,
     "backdrop_path": "/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
     "genre_ids": [
@@ -422,13 +2223,13 @@
     "original_language": "fr",
     "original_title": "Dracula",
     "overview": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
-    "popularity": 30.22,
+    "popularity": 39.8779,
     "poster_path": "/hCKkybW6EfSZoOW3xia9ZsQwaUd.jpg",
     "release_date": "2025-07-30",
     "title": "Dracula",
     "video": false,
-    "vote_average": 7.112,
-    "vote_count": 915,
+    "vote_average": 7.073,
+    "vote_count": 1072,
     "belongs_to_collection": null,
     "budget": 52000000,
     "genres": [
@@ -498,14 +2299,14 @@
     "runtime": 129,
     "spoken_languages": [
       {
-        "english_name": "German",
-        "iso_639_1": "de",
-        "name": "Deutsch"
-      },
-      {
         "english_name": "English",
         "iso_639_1": "en",
         "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
       },
       {
         "english_name": "Romanian",
@@ -516,11 +2317,10 @@
     "status": "Released",
     "tagline": "Il a renié sa foi pour devenir immortel. La passion, la colère, la vengeance et la haine se déchaîneront dans le monde moderne."
   },
-  "La femme de menage_2025": {
+  "La femme de menage ()_2025": {
     "adult": false,
-    "backdrop_path": "/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
+    "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
     "genre_ids": [
-      18,
       9648,
       53
     ],
@@ -528,13 +2328,13 @@
     "original_language": "en",
     "original_title": "The Housemaid",
     "overview": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.",
-    "popularity": 90.2009,
-    "poster_path": "/z12rRVkxyp8VZI3v3cFlxjW1gO4.jpg",
+    "popularity": 98.8854,
+    "poster_path": "/ordUueMu5qauAQfEq8UUjETHkCD.jpg",
     "release_date": "2025-12-18",
     "title": "La Femme de ménage",
     "video": false,
-    "vote_average": 7.252,
-    "vote_count": 1401,
+    "vote_average": 7.188,
+    "vote_count": 1795,
     "belongs_to_collection": {
       "id": 1611146,
       "name": "La Femme de ménage - Saga",
@@ -543,10 +2343,6 @@
     },
     "budget": 35000000,
     "genres": [
-      {
-        "id": 18,
-        "name": "Drame"
-      },
       {
         "id": 9648,
         "name": "Mystère"
@@ -593,7 +2389,7 @@
         "name": "United States of America"
       }
     ],
-    "revenue": 383000000,
+    "revenue": 399346566,
     "runtime": 131,
     "spoken_languages": [
       {
@@ -615,13 +2411,13 @@
     "original_language": "fa",
     "original_title": "برادران لیلا",
     "overview": "Leila a dédié toute sa vie à ses parents et ses quatre frères. Très touchée par une crise économique sans précédent, la famille croule sous les dettes et se déchire au fur et à mesure de leurs désillusions personnelles. Afin de les sortir de cette situation, Leila élabore un plan : acheter une boutique pour lancer une affaire avec ses frères. Chacun y met toutes ses économies, mais il leur manque un dernier soutien financier. Au même moment et à la surprise de tous, leur père Esmail promet une importante somme d’argent à sa communauté afin d’en devenir le nouveau parrain, la plus haute distinction de la tradition persane. Peu à peu, les actions de chacun de ses membres entrainent la famille au bord de l’implosion, alors que la santé du patriarche se détériore.",
-    "popularity": 0.5159,
+    "popularity": 1.3576,
     "poster_path": "/pPIKwC3ZTHazge1BNgsbxPYcNEd.jpg",
     "release_date": "2022-08-24",
     "title": "Leila et ses frères",
     "video": false,
-    "vote_average": 7.562,
-    "vote_count": 154,
+    "vote_average": 7.6,
+    "vote_count": 157,
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -672,13 +2468,13 @@
     "original_language": "en",
     "original_title": "Books of Blood",
     "overview": "Mary, une brillante psychologue mystico-sceptique fait face à la mort de son fils de 7 ans. Son nouvel amant, Simon, la convainc de pouvoir parler à son fils mort. Ses certitudes sont chamboulées... Au même moment, Jenna, une fille qui souffre de misophonie - une aversion pour les bruits - se met en route pour Los Angeles. Parallèlement, Bennett, un tueur professionnel apprend de la bouche de sa dernière cible, l'existence d'un livre à la valeur inestimable... Afin de le récupérer, Bennett va devoir affronter des menaces surnaturelles.",
-    "popularity": 1.2467,
+    "popularity": 1.4542,
     "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
     "release_date": "2020-10-07",
     "title": "Books of Blood",
     "video": false,
-    "vote_average": 6.302,
-    "vote_count": 493,
+    "vote_average": 6.3,
+    "vote_count": 497,
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -728,7 +2524,7 @@
     "status": "Released",
     "tagline": "Toutes les histoires prennent fin ici."
   },
-  "Pour l'éternité_2025": {
+  "Pour l'éternité ()_2025": {
     "adult": false,
     "backdrop_path": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
     "genre_ids": [
@@ -740,13 +2536,13 @@
     "original_language": "en",
     "original_title": "Eternity",
     "overview": "Vieux couple marié depuis des années, Joan et Larry meurent à une semaine d'intervalle. À leur arrivée dans l’au-delà, ils découvrent que chaque âme doit choisir où - et avec qui - passer l’éternité. Alors qu’ils s’apprêtent à rejoindre leur paradis commun, un fantôme du passé réapparaît : Luke, le premier mari de Joan, mort durant la guerre de Corée, qui l’attend patiemment depuis 67 ans. Joan doit alors faire un choix impossible : le père de ses enfants, avec qui elle a partagé une vie entière, ou son amour passionné de jeunesse.",
-    "popularity": 12.2755,
+    "popularity": 9.6806,
     "poster_path": "/c4qswPl8PwnJnyz12m8zVjymWAF.jpg",
     "release_date": "2025-11-26",
     "title": "Pour l'éternité",
     "video": false,
-    "vote_average": 6.9,
-    "vote_count": 506,
+    "vote_average": 6.983,
+    "vote_count": 595,
     "belongs_to_collection": null,
     "budget": 12000000,
     "genres": [
@@ -800,68 +2596,6 @@
     "status": "Released",
     "tagline": "Un choix pour l'éternité."
   },
-  "Inheritance_2025": {
-    "adult": false,
-    "backdrop_path": "/fuRRTlFH4qazNjUSAmnmGMyNq29.jpg",
-    "genre_ids": [
-      53
-    ],
-    "id": 1297860,
-    "original_language": "en",
-    "original_title": "Inheritance",
-    "overview": "À la mort de sa mère, Maya retrouve son père à New York. Celui-ci l'emmène au Caire, où il est alors enlevé. Pour le sauver, elle plonge dans une traque de l'Égypte à l'Asie, découvrant une machination mondiale. Manipulée mais déterminée, elle choisit son propre destin et garde le véritable secret.",
-    "popularity": 2.0383,
-    "poster_path": "/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",
-    "release_date": "2025-01-24",
-    "title": "Inheritance",
-    "video": false,
-    "vote_average": 6.0,
-    "vote_count": 73,
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 53,
-        "name": "Thriller"
-      }
-    ],
-    "homepage": "https://www.primevideo.com/detail/0KGIN3XJ8D6E4T3DGIL70FWZ3V",
-    "imdb_id": "tt31050620",
-    "origin_country": [
-      "US"
-    ],
-    "production_companies": [
-      {
-        "id": 14,
-        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-        "name": "Miramax",
-        "origin_country": "US"
-      },
-      {
-        "id": 211413,
-        "logo_path": null,
-        "name": "Nota Bene Productions",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 0,
-    "runtime": 101,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": ""
-  },
   "Marcel et Monsieur Pagnol_2025": {
     "adult": false,
     "backdrop_path": "/xPquMr2qgZcpV31dZl5T2Td1nBN.jpg",
@@ -871,16 +2605,16 @@
       18
     ],
     "id": 840873,
-    "original_language": "fr",
-    "original_title": "Marcel et monsieur Pagnol",
+    "original_language": "en",
+    "original_title": "Marcel et Monsieur Pagnol",
     "overview": "À l’apogée de sa renommée, Marcel Pagnol reçoit la commande d’une rédactrice en chef d’un grand magazine féminin pour l’écriture d’un feuilleton littéraire, dans lequel il pourra raconter son enfance, sa Provence, ses premières amours... En rédigeant les premiers feuillets, l’enfant qu’il a été autrefois, le petit Marcel, lui apparaît soudain. Ainsi, ses souvenirs ressurgissent au fil des mots : l’arrivée du cinéma parlant, la cité du cinéma, son attachement aux acteurs, l'expérience de l’écriture. Le plus grand conteur de tous les temps devient alors le héros de sa propre histoire.",
-    "popularity": 1.1694,
+    "popularity": 1.1426,
     "poster_path": "/jKYHuENFUXYDAkOQOlN7RRzMowO.jpg",
     "release_date": "2025-10-15",
-    "title": "Marcel et monsieur Pagnol",
+    "title": "Marcel et Monsieur Pagnol",
     "video": false,
-    "vote_average": 7.1,
-    "vote_count": 14,
+    "vote_average": 7.3,
+    "vote_count": 15,
     "belongs_to_collection": null,
     "budget": 15000000,
     "genres": [
@@ -901,6 +2635,7 @@
     "imdb_id": "tt13968662",
     "origin_country": [
       "BE",
+      "US",
       "FR",
       "LU"
     ],
@@ -979,106 +2714,18 @@
       }
     ],
     "revenue": 0,
-    "runtime": 90,
+    "runtime": 91,
     "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
       {
         "english_name": "English",
         "iso_639_1": "en",
         "name": "English"
       },
-      {
-        "english_name": "French",
-        "iso_639_1": "fr",
-        "name": "Français"
-      }
-    ],
-    "status": "Released",
-    "tagline": ""
-  },
-  "L'étranger_2025": {
-    "adult": false,
-    "backdrop_path": "/isVOgjdMMWDpJCQEB2mwvg6KLSv.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "id": 1429348,
-    "original_language": "fr",
-    "original_title": "L'Étranger",
-    "overview": "Alger, 1938. Meursault, un jeune homme d’une trentaine d’années, modeste employé, enterre sa mère sans manifester la moindre émotion. Le lendemain, il entame une liaison avec Marie, une collègue de bureau. Puis il reprend sa vie de tous les jours. Mais son voisin, Raymond Sintès vient perturber son quotidien en l’entraînant dans des histoires louches jusqu’à un drame sur une plage, sous un soleil de plomb…",
-    "popularity": 6.5252,
-    "poster_path": "/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
-    "release_date": "2025-10-29",
-    "title": "L'Étranger",
-    "video": false,
-    "vote_average": 6.845,
-    "vote_count": 110,
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drame"
-      },
-      {
-        "id": 80,
-        "name": "Crime"
-      }
-    ],
-    "homepage": "",
-    "imdb_id": "tt36243564",
-    "origin_country": [
-      "FR"
-    ],
-    "production_companies": [
-      {
-        "id": 149,
-        "logo_path": null,
-        "name": "FOZ",
-        "origin_country": "FR"
-      },
-      {
-        "id": 83,
-        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
-        "name": "France 2 Cinéma",
-        "origin_country": "FR"
-      },
-      {
-        "id": 9,
-        "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
-        "name": "Gaumont",
-        "origin_country": "FR"
-      },
-      {
-        "id": 11199,
-        "logo_path": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
-        "name": "SCOPE Pictures",
-        "origin_country": "BE"
-      },
-      {
-        "id": 88902,
-        "logo_path": "/48RWqWpUvvtYQBcdyAmLFbaTByv.png",
-        "name": "Macassar Productions",
-        "origin_country": "FR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "FR",
-        "name": "France"
-      },
-      {
-        "iso_3166_1": "BE",
-        "name": "Belgium"
-      },
-      {
-        "iso_3166_1": "MA",
-        "name": "Morocco"
-      }
-    ],
-    "revenue": 0,
-    "runtime": 120,
-    "spoken_languages": [
       {
         "english_name": "French",
         "iso_639_1": "fr",
@@ -1098,13 +2745,13 @@
     "original_language": "fr",
     "original_title": "L'Attachement",
     "overview": "Sandra, quinquagénaire farouchement indépendante, partage soudainement et malgré elle l’intimité de son voisin de palier et de ses deux enfants. Contre toute attente, elle s’attache peu à peu à cette famille d’adoption.",
-    "popularity": 3.1252,
+    "popularity": 1.5285,
     "poster_path": "/pP7I0DIw7ydWM8QycAfK64S9eK7.jpg",
     "release_date": "2025-02-19",
     "title": "L'Attachement",
     "video": false,
-    "vote_average": 7.1,
-    "vote_count": 225,
+    "vote_average": 7.119,
+    "vote_count": 248,
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -1161,74 +2808,6 @@
     "status": "Released",
     "tagline": "L'amour n'a pas de liens, il a des racines."
   },
-  "Nino_2025": {
-    "adult": false,
-    "backdrop_path": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1313229,
-    "original_language": "fr",
-    "original_title": "Nino",
-    "overview": "Dans trois jours, Nino devra affronter une grande épreuve. D’ici là, les médecins lui ont confié deux missions. Deux impératifs qui vont mener le jeune homme à travers Paris, le pousser à refaire corps avec les autres et avec lui-même.",
-    "popularity": 1.5765,
-    "poster_path": "/7RaBzFvNuzeYPaBwblu3sV4TVol.jpg",
-    "release_date": "2025-09-17",
-    "title": "Nino",
-    "video": false,
-    "vote_average": 7.2,
-    "vote_count": 44,
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drame"
-      }
-    ],
-    "homepage": "",
-    "imdb_id": "tt35519445",
-    "origin_country": [
-      "FR"
-    ],
-    "production_companies": [
-      {
-        "id": 30432,
-        "logo_path": "/7TlySFa08WRjn1X6m2KJyWtgukN.png",
-        "name": "Blue Monday Productions",
-        "origin_country": "FR"
-      },
-      {
-        "id": 83,
-        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
-        "name": "France 2 Cinéma",
-        "origin_country": "FR"
-      },
-      {
-        "id": 286057,
-        "logo_path": null,
-        "name": "Belleville Production",
-        "origin_country": "FR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "FR",
-        "name": "France"
-      }
-    ],
-    "revenue": 0,
-    "runtime": 96,
-    "spoken_languages": [
-      {
-        "english_name": "French",
-        "iso_639_1": "fr",
-        "name": "Français"
-      }
-    ],
-    "status": "Released",
-    "tagline": ""
-  },
   "I Spit On Your Grave II_2013": {
     "adult": false,
     "backdrop_path": "/rmYAHOJoA55EKP2t4WQAntPTjMY.jpg",
@@ -1241,13 +2820,13 @@
     "original_language": "en",
     "original_title": "I Spit on Your Grave 2",
     "overview": "Apprenti top model, Katie court les castings. L'un d'entre eux tourne au cauchemar. Violée, torturée et laissée pour morte, la jeune femme entreprend alors de se venger...",
-    "popularity": 4.7886,
+    "popularity": 4.1918,
     "poster_path": "/wit1VRI9sAbCstuwm3KPgxfYYqo.jpg",
     "release_date": "2013-08-25",
     "title": "I Spit on Your Grave 2",
     "video": false,
-    "vote_average": 6.3,
-    "vote_count": 1398,
+    "vote_average": 6.274,
+    "vote_count": 1407,
     "belongs_to_collection": {
       "id": 219691,
       "name": "I Spit on Your Grave - Saga",
@@ -1272,8 +2851,8 @@
     "homepage": "",
     "imdb_id": "tt2537176",
     "origin_country": [
-      "US",
-      "BG"
+      "BG",
+      "US"
     ],
     "production_companies": [
       {
@@ -1308,7 +2887,7 @@
   },
   "I Spit on Your Grave_2010": {
     "adult": false,
-    "backdrop_path": "/9pzIGGQtkEGHdxbV1f3YEuApO8g.jpg",
+    "backdrop_path": "/f4QIQvecRkKD5t7aPclyIr3SEP.jpg",
     "genre_ids": [
       53,
       80,
@@ -1318,13 +2897,13 @@
     "original_language": "en",
     "original_title": "I Spit on Your Grave",
     "overview": "Jennifer, jeune et jolie écrivain, s'isole dans un chalet pour y écrire son nouveau roman. Elle qui s'attendait à une retraite tranquille, se retrouve violée et torturée par un groupe d'individus complètement tordus qui empestent la cruauté et la perversité. Abusée par chacun d'entre eux, laissée pour morte, elle se livrera à une vengeance sans pitié.",
-    "popularity": 6.0449,
+    "popularity": 5.4294,
     "poster_path": "/1JAFM0veqxRn3ppl4rDFNerrzbT.jpg",
     "release_date": "2010-06-17",
     "title": "I Spit on Your Grave",
     "video": false,
-    "vote_average": 6.501,
-    "vote_count": 2504,
+    "vote_average": 6.502,
+    "vote_count": 2523,
     "belongs_to_collection": {
       "id": 219691,
       "name": "I Spit on Your Grave - Saga",
@@ -1385,21 +2964,21 @@
   },
   "T as pas change_2025": {
     "adult": false,
-    "backdrop_path": "/5Bv769BOiMIpLiMwGfX9VD8qqmT.jpg",
+    "backdrop_path": "/4QJu5gehRwc5krZt5RythpvhBux.jpg",
     "genre_ids": [
       35
     ],
     "id": 1302848,
     "original_language": "fr",
-    "original_title": "T’as pas changé",
+    "original_title": "T'as pas changé",
     "overview": "Suite à la disparition d’un de leurs camarades de classe, quatre anciens lycéens décident, 30 ans après le bac, de réunir toute leur promo à l’occasion d’une fête.  Véritable déclaration d’amour aux années 90, \"T’as pas changé\" dresse le portrait drôle et doux-amer de ces presque quinquas que des retrouvailles vont bouleverser à jamais…",
-    "popularity": 7.3105,
-    "poster_path": "/1FFRm0hJzB7bOyGVkBH1DGXhw1Q.jpg",
+    "popularity": 1.4504,
+    "poster_path": "/gTt3NeQ2bEN06DCmxHlSjlOqkMA.jpg",
     "release_date": "2025-11-05",
-    "title": "T’as pas changé",
+    "title": "T'as pas changé",
     "video": false,
-    "vote_average": 5.671,
-    "vote_count": 38,
+    "vote_average": 5.922,
+    "vote_count": 51,
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -1446,7 +3025,7 @@
       }
     ],
     "revenue": 0,
-    "runtime": 94,
+    "runtime": 105,
     "spoken_languages": [
       {
         "english_name": "French",
@@ -1467,13 +3046,13 @@
     "original_language": "en",
     "original_title": "Hell in Paradise",
     "overview": "Dans l’espoir d’une vie meilleure, Nina quitte Marseille pour un job de réceptionniste dans un luxueux hôtel dans l’océan Indien. Mais lorsqu'une tragédie frappe l'hôtel, Nina est propulsée dans une spirale cauchemardesque de mensonges et de manipulations. Accusée à tort et risquant la prison à vie, elle va devoir se battre et déjouer les pièges pour échapper à ce paradis devenu un enfer…",
-    "popularity": 3.9178,
+    "popularity": 1.0823,
     "poster_path": "/oJHfro8AC5v7chDt5AvZpArBmnC.jpg",
     "release_date": "2025-11-26",
     "title": "Hell in Paradise",
     "video": false,
-    "vote_average": 5.2,
-    "vote_count": 4,
+    "vote_average": 5.9,
+    "vote_count": 6,
     "belongs_to_collection": null,
     "budget": 0,
     "genres": [
@@ -1531,152 +3110,6 @@
     "status": "Released",
     "tagline": ""
   },
-  "Bark_2024": {
-    "adult": false,
-    "backdrop_path": "/kNcbJs4jJWcrEeAPQRnED3FTNFx.jpg",
-    "genre_ids": [
-      53
-    ],
-    "id": 1146892,
-    "original_language": "en",
-    "original_title": "Bark",
-    "overview": "",
-    "popularity": 3.4953,
-    "poster_path": "/uyAmhvgF5A1ZrTlEkqSRVxVY6Bl.jpg",
-    "release_date": "2024-10-24",
-    "title": "Bark",
-    "video": false,
-    "vote_average": 5.2,
-    "vote_count": 20,
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 53,
-        "name": "Thriller"
-      }
-    ],
-    "homepage": "",
-    "imdb_id": "tt18110702",
-    "origin_country": [
-      "DE"
-    ],
-    "production_companies": [
-      {
-        "id": 209252,
-        "logo_path": null,
-        "name": "Widescreen Entertainment",
-        "origin_country": "DE"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "DE",
-        "name": "Germany"
-      }
-    ],
-    "revenue": 0,
-    "runtime": 90,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": ""
-  },
-  "Evanouis_2025": {
-    "adult": false,
-    "backdrop_path": "/yKWZIDo4ixcDUeelk2QGVA1EVmC.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 1078605,
-    "original_language": "en",
-    "original_title": "Weapons",
-    "overview": "En plein cœur de la nuit, les 17 enfants d'une classe de l'école primaire de Maybrook aux États-Unis se réveillent à une heure précise et s'enfuient de leurs foyers. Mus par une force inébranlable, ils sont partis à la course et personne ne sait où ils s'en sont allés. Tous ont disparu, sauf un. Alex est le seul élève restant. Paniqués et inquiets, les parents soupçonnent l'enseignante Justine Gandy d'avoir manigancé quelque chose.",
-    "popularity": 23.6446,
-    "poster_path": "/3eRJV97oZDY6LORwPNdWlfdPLnd.jpg",
-    "release_date": "2025-08-04",
-    "title": "Évanouis",
-    "video": false,
-    "vote_average": 7.3,
-    "vote_count": 2991,
-    "belongs_to_collection": {
-      "id": 1531466,
-      "name": "Évanouis - Saga",
-      "poster_path": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
-      "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
-    },
-    "budget": 38000000,
-    "genres": [
-      {
-        "id": 27,
-        "name": "Horreur"
-      },
-      {
-        "id": 9648,
-        "name": "Mystère"
-      }
-    ],
-    "homepage": "https://newsroom.warnerbros.fr/weapons",
-    "imdb_id": "tt26581740",
-    "origin_country": [
-      "US"
-    ],
-    "production_companies": [
-      {
-        "id": 12,
-        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-        "name": "New Line Cinema",
-        "origin_country": "US"
-      },
-      {
-        "id": 240675,
-        "logo_path": null,
-        "name": "Subconscious",
-        "origin_country": "US"
-      },
-      {
-        "id": 829,
-        "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-        "name": "Vertigo Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 18609,
-        "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
-        "name": "BoulderLight Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 216687,
-        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-        "name": "Domain Entertainment",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 269072492,
-    "runtime": 129,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "À 2h17, 17 enfants sont sortis de chez eux… et ne sont jamais revenus."
-  },
   "Le Sifflet_2026": {
     "adult": false,
     "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
@@ -1688,13 +3121,13 @@
     "original_language": "en",
     "original_title": "Whistle",
     "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
-    "popularity": 46.6376,
+    "popularity": 126.7564,
     "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
     "release_date": "2026-01-20",
     "title": "Le Sifflet",
     "video": false,
-    "vote_average": 5.84,
-    "vote_count": 72,
+    "vote_average": 5.991,
+    "vote_count": 235,
     "belongs_to_collection": null,
     "budget": 2000000,
     "genres": [
@@ -1736,7 +3169,7 @@
         "name": "United States of America"
       }
     ],
-    "revenue": 2568027,
+    "revenue": 4633854,
     "runtime": 97,
     "spoken_languages": [
       {
@@ -1760,13 +3193,13 @@
     "original_language": "en",
     "original_title": "Woman of the Hour",
     "overview": "Los Angeles dans les années 1970. Tandis qu’une vague de meurtres défraie la chronique, une jeune femme qui aspire à devenir comédienne et un tueur en série se croisent à l’occasion d’un épisode de l’émission \"The dating game\" (« Tournez manège »).",
-    "popularity": 9.2879,
+    "popularity": 2.5356,
     "poster_path": "/jnIZNITcmXcQXAUHYSsTHEeuCkP.jpg",
     "release_date": "2024-10-03",
     "title": "Une femme en jeu",
     "video": false,
-    "vote_average": 6.416,
-    "vote_count": 962,
+    "vote_average": 6.404,
+    "vote_count": 995,
     "belongs_to_collection": null,
     "budget": 836057,
     "genres": [
@@ -1832,23 +3265,689 @@
     "status": "Released",
     "tagline": "Basé sur l'histoire vraie et choquante du candidat le plus meurtrier de l'émission \"The Dating Game\"."
   },
-  "Andy_2019": {
+  "Conclave_2024": {
     "adult": false,
-    "backdrop_path": "/k5vrDpgX2wXgQ4mWYLgkFuY5PGB.jpg",
+    "backdrop_path": "/eZzNdjNDvaSoyywy9ICg2UmFwul.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 974576,
+    "original_language": "en",
+    "original_title": "Conclave",
+    "overview": "Le Cardinal Lawrence est chargé de gérer ce processus confidentiel après la mort inattendue du Pape bien-aimé. Lorsque tous les dirigeants les plus puissants de l’Église catholique sont réunis et enfermés dans le Vatican, Lawrence se retrouve au centre d’une conspiration et découvre un secret qui pourrait changer à jamais l’institution religieuse.",
+    "popularity": 8.7913,
+    "poster_path": "/8BPRVN1oajfhnDFJiaN3cc4nhso.jpg",
+    "release_date": "2024-10-25",
+    "title": "Conclave",
+    "video": false,
+    "vote_average": 7.193,
+    "vote_count": 3316,
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt20215234",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7493,
+        "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+        "name": "FilmNation Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 9350,
+        "logo_path": "/xz60JVoUHpOeg1cJbxzMJiwbuL7.png",
+        "name": "Indian Paintbrush",
+        "origin_country": "US"
+      },
+      {
+        "id": 112783,
+        "logo_path": "/g95BBJvKyOawT3sGVXTdDG72Qad.png",
+        "name": "House Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 115657988,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ce qui se déroule derrière ces murs changera tout."
+  },
+  "Hurlevent ()_2026": {
+    "adult": false,
+    "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1316092,
+    "original_language": "en",
+    "original_title": "\"Wuthering Heights\"",
+    "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+    "popularity": 91.0269,
+    "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+    "release_date": "2026-02-11",
+    "title": "“Hurlevent”",
+    "video": false,
+    "vote_average": 6.533,
+    "vote_count": 747,
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt32897959",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      },
+      {
+        "id": 82968,
+        "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+        "name": "LuckyChap Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 207685,
+        "logo_path": null,
+        "name": "Lie Still",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "revenue": 240401072,
+    "runtime": 136,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Jusqu'à la folie"
+  },
+  "Insaisissable 3": {
+    "adult": false,
+    "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "id": 425274,
+    "original_language": "en",
+    "original_title": "Now You See Me: Now You Don't",
+    "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
+    "popularity": 46.4877,
+    "poster_path": "/rfjuf6kNLVnH8qOk6UZJBHQHKlF.jpg",
+    "release_date": "2025-11-12",
+    "title": "Insaisissables 3",
+    "video": false,
+    "vote_average": 6.506,
+    "vote_count": 1367,
+    "belongs_to_collection": {
+      "id": 382685,
+      "name": "Insaisissables - Saga",
+      "poster_path": "/JAzLUXjXJEGp9IKR7jEY4L2VSL.jpg",
+      "backdrop_path": "/scBzORmLqP00h8hPKS19TLtyRQm.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt4712810",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 281285,
+        "logo_path": null,
+        "name": "Cohen Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 221429,
+        "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+        "name": "Media Capital Technologies",
+        "origin_country": "US"
+      },
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 242431024,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Grand spectacle. Très grand braquage."
+  },
+  "La Bonne Etoile_2025": {
+    "adult": false,
+    "backdrop_path": "/1l944ZcucDLOuXMXDAxJGZJLszR.jpg",
     "genre_ids": [
       35,
-      10749
+      18
     ],
-    "id": 611241,
+    "id": 1255778,
     "original_language": "fr",
-    "original_title": "Andy",
-    "overview": "Thomas, un doux oisif, a toujours réussi à mener sa vie sans faire le moindre effort ; jusqu’au jour où il se retrouve à la rue contraint de vivre dans un foyer. C’est là qu’il rencontre Margaux, qui y travaille mais surtout s’y réfugie après une histoire d’amour douloureuse. Obligé de travailler, Thomas pense avoir trouvé le job idéal : escort boy. Or, même ça il ne peut le faire comme tout le monde. Il va alors entrainer Margaux dans un partenariat aux rebondissements aussi drôles qu’inattendus.",
-    "popularity": 0.6844,
-    "poster_path": "/wLDDn47zFSGqfFgq3cewsaW8I2U.jpg",
-    "release_date": "2019-09-04",
-    "title": "Andy",
+    "original_title": "La bonne étoile",
+    "overview": "France 1940, Jean Chevalin et sa famille vivent dans la misère après que ce dernier ait jugé bon de… déserter ! La situation n’est plus tenable. Convaincu que « certains » s’en sortent mieux, Chevalin a une brillante idée : se faire passer pour juifs afin de bénéficier de l’aide des passeurs pour accéder à la zone libre. De malentendus en révélations, il va entrainer sa famille dans ce grand périple qui déconstruira ses préjugés un à un…",
+    "popularity": 0.8694,
+    "poster_path": "/cnl5uatyJqD5KyzHItKAEl8FFoM.jpg",
+    "release_date": "2025-11-12",
+    "title": "La bonne étoile",
     "video": false,
-    "vote_average": 5.491,
-    "vote_count": 54
+    "vote_average": 5.524,
+    "vote_count": 21,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comédie"
+      },
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt32553661",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 7038,
+        "logo_path": "/9YDo78sKAy6xxqBwVBT2Vi9FSZl.png",
+        "name": "Quad Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 161664,
+        "logo_path": null,
+        "name": "Père & Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 230739,
+        "logo_path": null,
+        "name": "Yann Zenou Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Fuir les nazis ? Il n’y a qu’une chose plus importante qu’un bon plan : une étoile porte-bonheur..."
+  },
+  "Les Tourmentes_2025": {
+    "adult": false,
+    "backdrop_path": "/2XUSqh4WiRgvRH7mTzKb0hoGqEs.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1284493,
+    "original_language": "fr",
+    "original_title": "Les Tourmentés",
+    "overview": "Ça vaut quoi la vie d’un homme ? D’un homme comme lui. Un homme sans rien. Skender, ancien légionnaire, le découvrira bien assez tôt. \"Madame\", veuve fortunée et passionnée de chasse, s’ennuie. Elle charge alors son majordome d’une terrible mission. Lui trouver un candidat pour une chasse à l’homme moyennant un très juteux salaire. Skender est le gibier idéal. Mais rien ne se passera comme prévu...",
+    "popularity": 1.0951,
+    "poster_path": "/hwGa0XshQ16NcizOkSuRQDsl6Pl.jpg",
+    "release_date": "2025-09-17",
+    "title": "Les Tourmentés",
+    "video": false,
+    "vote_average": 5.019,
+    "vote_count": 26,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt35518681",
+    "origin_country": [
+      "BE",
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 87577,
+        "logo_path": null,
+        "name": "Bizibi Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11773,
+        "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+        "name": "Artémis Productions",
+        "origin_country": "BE"
+      },
+      {
+        "id": 109756,
+        "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+        "name": "Auvergne-Rhône-Alpes Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 792,
+        "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+        "name": "RTBF",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24430,
+        "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+        "name": "BeTV",
+        "origin_country": "BE"
+      },
+      {
+        "id": 92187,
+        "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+        "name": "Proximus",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "L Interet d Adam_2025": {
+    "adult": false,
+    "backdrop_path": "/1pfkf2gOSmDpayNB9U81B69Vuz6.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1293858,
+    "original_language": "fr",
+    "original_title": "L'Intérêt d'Adam",
+    "overview": "Adam, 4 ans, est hospitalisé pour malnutrition à la suite d’une décision de justice. Lucy, l’infirmière en chef autorise la mère d’Adam à rester auprès de son fils au-delà des heures de visite fixées par le juge. Mais la situation se complique quand celle-ci refuse une nouvelle fois de quitter son fils. Dans l’intérêt de l’enfant, Lucy fera tout pour venir en aide à cette mère en détresse.",
+    "popularity": 1.9553,
+    "poster_path": "/rQfs7iuWYt0sqgxm76sC9l8nMa.jpg",
+    "release_date": "2025-09-17",
+    "title": "L'Intérêt d'Adam",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 30,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drame"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt32318707",
+    "origin_country": [
+      "BE",
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 91513,
+        "logo_path": null,
+        "name": "Dragons Films",
+        "origin_country": "BE"
+      },
+      {
+        "id": 1926,
+        "logo_path": "/eSnbNBmDyok9rcpWxYRaBjTaq1n.png",
+        "name": "Les Films du Fleuve",
+        "origin_country": "BE"
+      },
+      {
+        "id": 11794,
+        "logo_path": "/vjyzeaIhRdtMfDIVGAECNirIkGw.png",
+        "name": "Lunanime",
+        "origin_country": "BE"
+      },
+      {
+        "id": 58568,
+        "logo_path": "/2qxPHPKa29w2MsaPKpYRfBnQcyq.png",
+        "name": "Les Films de Pierre",
+        "origin_country": "FR"
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 792,
+        "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+        "name": "RTBF",
+        "origin_country": "BE"
+      },
+      {
+        "id": 95061,
+        "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+        "name": "Shelter Prod",
+        "origin_country": "BE"
+      },
+      {
+        "id": 92187,
+        "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+        "name": "Proximus",
+        "origin_country": "BE"
+      },
+      {
+        "id": 24430,
+        "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+        "name": "BeTV",
+        "origin_country": "BE"
+      },
+      {
+        "id": 245340,
+        "logo_path": "/kTHYCmbAbITXhOhyAv6dBD4Gp37.png",
+        "name": "Orange",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 73,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": ""
+  },
+  "Chien 51_2025": {
+    "adult": false,
+    "backdrop_path": "/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
+    "genre_ids": [
+      53,
+      878,
+      80,
+      28
+    ],
+    "id": 1266798,
+    "original_language": "fr",
+    "original_title": "Chien 51",
+    "overview": "Dans un futur proche, Paris a été divisé en 3 zones qui séparent les classes sociales et où l’intelligence artificielle ALMA a révolutionné le travail de la police. Jusqu’à ce que son inventeur soit assassiné et que Salia et Zem, deux policiers que tout oppose, soient forcés à collaborer pour mener l’enquête.",
+    "popularity": 5.4421,
+    "poster_path": "/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
+    "release_date": "2025-10-15",
+    "title": "Chien 51",
+    "video": false,
+    "vote_average": 6.218,
+    "vote_count": 232,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 878,
+        "name": "Science-Fiction"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt33255286",
+    "origin_country": [
+      "BE",
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 34780,
+        "logo_path": "/ahgzFRXKF2fkOV0WfB0RCxEmxki.png",
+        "name": "Chi-Fou-Mi Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 11773,
+        "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+        "name": "Artémis Productions",
+        "origin_country": "BE"
+      },
+      {
+        "id": 694,
+        "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+        "name": "StudioCanal",
+        "origin_country": "FR"
+      },
+      {
+        "id": 83,
+        "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+        "name": "France 2 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 95061,
+        "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+        "name": "Shelter Prod",
+        "origin_country": "BE"
+      },
+      {
+        "id": 275793,
+        "logo_path": null,
+        "name": "Jim Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 109279,
+        "logo_path": "/s5rmTgexkmKEC7Jbt4MTILhuBbU.png",
+        "name": "Taxshelter.be & ING",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dans une ville divisée, ils se battent pour la vérité."
+  },
+  "The Super Mario Galaxy Movie_2026": {
+    "adult": false,
+    "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      14,
+      16
+    ],
+    "id": 1226863,
+    "original_language": "en",
+    "original_title": "The Super Mario Galaxy Movie",
+    "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
+    "popularity": 495.4169,
+    "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+    "release_date": "2026-04-01",
+    "title": "Super Mario Galaxy, le film",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 417
   }
 }
