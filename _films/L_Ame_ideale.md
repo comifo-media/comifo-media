@@ -1,5 +1,5 @@
 ---
-titre: "L’Ame Ideale"
+titre: "L'Ame Ideale"
 annee: 2025
 date: 2026-04-17
 affiche: "https://www.themoviedb.org/t/p/w600_and_h900_face/ws9wCKrqMsS700OOScv8L52wJMa.jpg"
